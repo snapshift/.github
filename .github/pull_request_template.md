@@ -1,6 +1,7 @@
 Changelog: <!-- One liner description that will show on release PR -->
 
-- [ ] Each commit can be reviewed individually
+- [ ] Each commit can be reviewed individually.
+- [ ] I have added tests.
 
 <!-- 
   Link to JIRA ticket / Slack conversation or screenshot 
